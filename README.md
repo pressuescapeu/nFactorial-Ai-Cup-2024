@@ -5,7 +5,7 @@ Fork this repository and build nFactorial Ai Cup 2024 projects
 
 ## < onizuka.ai >
 
-## < AI academic advising chatbot using basic flutter (with http), python: flask (local server), chroma (vector database), aws bedrock (embedding) >
+## < AI academic advising chatbot using basic flutter (front); python: flask (local server), chroma (vector database), aws bedrock (embedding), ollama (to run mistral) >
 
 
 ## Typeform to submit:
