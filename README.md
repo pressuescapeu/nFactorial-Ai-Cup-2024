@@ -1,11 +1,11 @@
 # nFactorial-Ai-Cup-2024
 Fork this repository and build nFactorial Ai Cup 2024 projects 
 
-## < Your Name >
+## < Bakhtiyar Kalkenov >
 
-## < Your App's Name >
+## < onizuka.ai >
 
-## < Your App's description, technical considerations, etc. >
+## < AI academic advising chatbot using basic flutter (with http), python: flask (local server), chroma (vector database), aws bedrock (embedding) >
 
 
 ## Typeform to submit:
